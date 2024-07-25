@@ -15,8 +15,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (which includes npm)
-- [Git](https://git-scm.com/)
+- A modern web browser
+- Git
 
 ### Installation
 
@@ -26,17 +26,8 @@ Follow these instructions to get a copy of the project up and running on your lo
     cd question-hub
     ```
 
-2. **Install dependencies:**
-    ```sh
-    npm install
-    ```
-
-3. **Start the development server:**
-    ```sh
-    npm start
-    ```
-
-4. Open your browser and navigate to `http://localhost:3000` to see the application in action.
+2. **Open the project:**
+   - Open the `index.html` file in your web browser to see the application in action.
 
 ## Usage
 

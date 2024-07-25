@@ -1,6 +1,6 @@
 # Question Hub
 
-Welcome to Question Hub! This project is a web-based platform designed to help users store, manage, and revise the DSA (Data Structures and Algorithms) questions they have solved. Whether you're preparing for coding interviews or enhancing your programming skills, Question Hub allows you to easily add, delete, and edit questions. You can also track your revision progress by seeing how many questions you've revised out of the total number of questions.
+Welcome to Question Hub! This project is a web-based platform designed to help users store, manage, and revise the coding questions they have solved. Whether you're preparing for coding interviews or enhancing your programming skills, Question Hub allows you to easily add, delete, and edit questions. You can also track your revision progress by seeing how many questions you've revised out of the total number of questions.
 
 ## Features
 

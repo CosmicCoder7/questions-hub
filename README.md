@@ -22,7 +22,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/CosmicCoder7/question-hub.git
+    git clone https://github.com/CosmicCoder7/questions-hub.git
     cd question-hub
     ```
 

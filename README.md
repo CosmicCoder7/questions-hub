@@ -23,10 +23,14 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/CosmicCoder7/questions-hub.git
-    cd question-hub
+    ```
+    
+2. **Open Folder**
+    ```sh
+    cd questions-hub
     ```
 
-2. **Open the project:**
+3. **Open the project:**
    - Open the `index.html` file in your web browser to see the application in action.
 
 ## Usage
